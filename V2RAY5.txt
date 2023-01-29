@@ -1,35 +1,35 @@
 پخش کردن کانفیگ ها ممکن است دسترسی شما رو به ربات مسدود کند
-این کانفیگ ها تا ساعت 18 فعال است:
-vless://16ba83ed-29bd-4209-b992-9ea497f8d9d4@aliahanch98.gheychi.me:443?sni=30cee45a.gheychi.ninja&host=30cee45a.gheychi.ninja&type=ws&security=tls&path=%2Fmetrix&encryption=none#vless+tls+18
+این کانفیگ ها تا ساعت 20 فعال است:
+vless://ba6b8f82-1463-4a3b-a1c3-18eab3abd837@aliahanch98.gheychi.me:443?sni=30cee45a.gheychi.games&host=30cee45a.gheychi.games&type=ws&security=tls&path=%2Fmetrix&encryption=none#vless+tls+20
 
-vless://16ba83ed-29bd-4209-b992-9ea497f8d9d4@cf3.sansorchi.net:443?sni=30cee45a.gheychi.games&host=30cee45a.gheychi.games&type=ws&security=tls&path=%2Fmetrix&encryption=none#vless+tls+18
+vless://ba6b8f82-1463-4a3b-a1c3-18eab3abd837@cf3.sansorchi.net:443?sni=30cee45a.gheychi.games&host=30cee45a.gheychi.games&type=ws&security=tls&path=%2Fmetrix&encryption=none#vless+tls+20
 
-vless://16ba83ed-29bd-4209-b992-9ea497f8d9d4@discord.com:443?sni=30cee45a.gheychi.games&host=30cee45a.gheychi.games&type=ws&security=tls&path=%2Fmetrix&encryption=none#vless+tls+18
+vless://ba6b8f82-1463-4a3b-a1c3-18eab3abd837@discord.com:443?sni=30cee45a.gheychi.games&host=30cee45a.gheychi.games&type=ws&security=tls&path=%2Fmetrix&encryption=none#vless+tls+20
 
-vless://16ba83ed-29bd-4209-b992-9ea497f8d9d4@iranserver.com:443?sni=30cee45a.gheychi.ninja&host=30cee45a.gheychi.ninja&type=ws&security=tls&path=%2Fmetrix&encryption=none#vless+tls+18
+vless://ba6b8f82-1463-4a3b-a1c3-18eab3abd837@iranserver.com:443?sni=30cee45a.gheychi.games&host=30cee45a.gheychi.games&type=ws&security=tls&path=%2Fmetrix&encryption=none#vless+tls+20
 
-vless://16ba83ed-29bd-4209-b992-9ea497f8d9d4@cf.sansorchi.net:443?sni=30cee45a.gheychi.games&host=30cee45a.gheychi.games&type=ws&security=tls&path=%2Fmetrix&encryption=none#vless+tls+18
-
-پخش کردن کانفیگ ها ممکن است دسترسی شما رو به ربات مسدود کند
-این کانفیگ ها تا ساعت 18 فعال است:
-vless://16ba83ed-29bd-4209-b992-9ea497f8d9d4@aliahanch98.gheychi.me:2053?sni=30cee45a.gheychi.ninja&type=grpc&mode=gun&alpn=h2&serviceName=VALdGZ9k&security=tls&encryption=none#vless+gtls+18
-
-vless://16ba83ed-29bd-4209-b992-9ea497f8d9d4@cf3.sansorchi.net:2053?sni=30cee45a.gheychi.ninja&type=grpc&mode=gun&alpn=h2&serviceName=VALdGZ9k&security=tls&encryption=none#vless+gtls+18
-
-vless://16ba83ed-29bd-4209-b992-9ea497f8d9d4@discord.com:2053?sni=30cee45a.gheychi.ninja&type=grpc&mode=gun&alpn=h2&serviceName=VALdGZ9k&security=tls&encryption=none#vless+gtls+18
-
-vless://16ba83ed-29bd-4209-b992-9ea497f8d9d4@iranserver.com:2053?sni=30cee45a.gheychi.games&type=grpc&mode=gun&alpn=h2&serviceName=VALdGZ9k&security=tls&encryption=none#vless+gtls+18
-
-vless://16ba83ed-29bd-4209-b992-9ea497f8d9d4@cf.sansorchi.net:2053?sni=30cee45a.gheychi.ninja&type=grpc&mode=gun&alpn=h2&serviceName=VALdGZ9k&security=tls&encryption=none#vless+gtls+18
+vless://ba6b8f82-1463-4a3b-a1c3-18eab3abd837@cf.sansorchi.net:443?sni=30cee45a.gheychi.ninja&host=30cee45a.gheychi.ninja&type=ws&security=tls&path=%2Fmetrix&encryption=none#vless+tls+20
 
 پخش کردن کانفیگ ها ممکن است دسترسی شما رو به ربات مسدود کند
-این کانفیگ ها تا ساعت 18 فعال است:
-vmess://eyJhZGQiOiAiYWxpYWhhbmNoOTguZ2hleWNoaS5tZSIsICJpZCI6ICIxNmJhODNlZC0yOWJkLTQyMDktYjk5Mi05ZWE0OTdmOGQ5ZDQiLCAiYWlkIjogMCwgImhvc3QiOiAiMzBjZWU0NWEuZ2hleWNoaS5uaW5qYSIsICJwcyI6ICJ2bWVzcyBub1RMUyAxOCIsICJwb3J0IjogIjgwODAiLCAidGxzIjogIiIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3MiLCAidHlwZSI6ICJub25lIiwgInYiOiAyfQ==
+این کانفیگ ها تا ساعت 20 فعال است:
+vless://ba6b8f82-1463-4a3b-a1c3-18eab3abd837@aliahanch98.gheychi.me:2053?sni=30cee45a.gheychi.ninja&type=grpc&mode=gun&alpn=h2&serviceName=VALdGZ9k&security=tls&encryption=none#vless+gtls+20
 
-vmess://eyJhZGQiOiAiY2YzLnNhbnNvcmNoaS5uZXQiLCAiaWQiOiAiMTZiYTgzZWQtMjliZC00MjA5LWI5OTItOWVhNDk3ZjhkOWQ0IiwgImFpZCI6IDAsICJob3N0IjogIjMwY2VlNDVhLmdoZXljaGkubmluamEiLCAicHMiOiAidm1lc3Mgbm9UTFMgMTgiLCAicG9ydCI6ICI4MDgwIiwgInRscyI6ICIiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3dzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogMn0=
+vless://ba6b8f82-1463-4a3b-a1c3-18eab3abd837@cf3.sansorchi.net:2053?sni=30cee45a.gheychi.games&type=grpc&mode=gun&alpn=h2&serviceName=VALdGZ9k&security=tls&encryption=none#vless+gtls+20
 
-vmess://eyJhZGQiOiAiZGlzY29yZC5jb20iLCAiaWQiOiAiMTZiYTgzZWQtMjliZC00MjA5LWI5OTItOWVhNDk3ZjhkOWQ0IiwgImFpZCI6IDAsICJob3N0IjogIjMwY2VlNDVhLmdoZXljaGkuZ2FtZXMiLCAicHMiOiAidm1lc3Mgbm9UTFMgMTgiLCAicG9ydCI6ICI4MDgwIiwgInRscyI6ICIiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3dzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogMn0=
+vless://ba6b8f82-1463-4a3b-a1c3-18eab3abd837@discord.com:2053?sni=30cee45a.gheychi.games&type=grpc&mode=gun&alpn=h2&serviceName=VALdGZ9k&security=tls&encryption=none#vless+gtls+20
 
-vmess://eyJhZGQiOiAiaXJhbnNlcnZlci5jb20iLCAiaWQiOiAiMTZiYTgzZWQtMjliZC00MjA5LWI5OTItOWVhNDk3ZjhkOWQ0IiwgImFpZCI6IDAsICJob3N0IjogIjMwY2VlNDVhLmdoZXljaGkuZ2FtZXMiLCAicHMiOiAidm1lc3Mgbm9UTFMgMTgiLCAicG9ydCI6ICI4MDgwIiwgInRscyI6ICIiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3dzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogMn0=
+vless://ba6b8f82-1463-4a3b-a1c3-18eab3abd837@iranserver.com:2053?sni=30cee45a.gheychi.ninja&type=grpc&mode=gun&alpn=h2&serviceName=VALdGZ9k&security=tls&encryption=none#vless+gtls+20
 
-vmess://eyJhZGQiOiAiY2Yuc2Fuc29yY2hpLm5ldCIsICJpZCI6ICIxNmJhODNlZC0yOWJkLTQyMDktYjk5Mi05ZWE0OTdmOGQ5ZDQiLCAiYWlkIjogMCwgImhvc3QiOiAiMzBjZWU0NWEuZ2hleWNoaS5uaW5qYSIsICJwcyI6ICJ2bWVzcyBub1RMUyAxOCIsICJwb3J0IjogIjgwODAiLCAidGxzIjogIiIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3MiLCAidHlwZSI6ICJub25lIiwgInYiOiAyfQ==
+vless://ba6b8f82-1463-4a3b-a1c3-18eab3abd837@cf.sansorchi.net:2053?sni=30cee45a.gheychi.games&type=grpc&mode=gun&alpn=h2&serviceName=VALdGZ9k&security=tls&encryption=none#vless+gtls+20
+
+پخش کردن کانفیگ ها ممکن است دسترسی شما رو به ربات مسدود کند
+این کانفیگ ها تا ساعت 20 فعال است:
+vmess://eyJhZGQiOiAiYWxpYWhhbmNoOTguZ2hleWNoaS5tZSIsICJpZCI6ICJiYTZiOGY4Mi0xNDYzLTRhM2ItYTFjMy0xOGVhYjNhYmQ4MzciLCAiYWlkIjogMCwgImhvc3QiOiAiMzBjZWU0NWEuZ2hleWNoaS5uaW5qYSIsICJwcyI6ICJ2bWVzcyBub1RMUyAyMCIsICJwb3J0IjogIjgwODAiLCAidGxzIjogIiIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3MiLCAidHlwZSI6ICJub25lIiwgInYiOiAyfQ==
+
+vmess://eyJhZGQiOiAiY2YzLnNhbnNvcmNoaS5uZXQiLCAiaWQiOiAiYmE2YjhmODItMTQ2My00YTNiLWExYzMtMThlYWIzYWJkODM3IiwgImFpZCI6IDAsICJob3N0IjogIjMwY2VlNDVhLmdoZXljaGkubmluamEiLCAicHMiOiAidm1lc3Mgbm9UTFMgMjAiLCAicG9ydCI6ICI4MDgwIiwgInRscyI6ICIiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3dzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogMn0=
+
+vmess://eyJhZGQiOiAiZGlzY29yZC5jb20iLCAiaWQiOiAiYmE2YjhmODItMTQ2My00YTNiLWExYzMtMThlYWIzYWJkODM3IiwgImFpZCI6IDAsICJob3N0IjogIjMwY2VlNDVhLmdoZXljaGkuZ2FtZXMiLCAicHMiOiAidm1lc3Mgbm9UTFMgMjAiLCAicG9ydCI6ICI4MDgwIiwgInRscyI6ICIiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3dzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogMn0=
+
+vmess://eyJhZGQiOiAiaXJhbnNlcnZlci5jb20iLCAiaWQiOiAiYmE2YjhmODItMTQ2My00YTNiLWExYzMtMThlYWIzYWJkODM3IiwgImFpZCI6IDAsICJob3N0IjogIjMwY2VlNDVhLmdoZXljaGkuZ2FtZXMiLCAicHMiOiAidm1lc3Mgbm9UTFMgMjAiLCAicG9ydCI6ICI4MDgwIiwgInRscyI6ICIiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3dzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogMn0=
+
+vmess://eyJhZGQiOiAiY2Yuc2Fuc29yY2hpLm5ldCIsICJpZCI6ICJiYTZiOGY4Mi0xNDYzLTRhM2ItYTFjMy0xOGVhYjNhYmQ4MzciLCAiYWlkIjogMCwgImhvc3QiOiAiMzBjZWU0NWEuZ2hleWNoaS5nYW1lcyIsICJwcyI6ICJ2bWVzcyBub1RMUyAyMCIsICJwb3J0IjogIjgwODAiLCAidGxzIjogIiIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3MiLCAidHlwZSI6ICJub25lIiwgInYiOiAyfQ==
