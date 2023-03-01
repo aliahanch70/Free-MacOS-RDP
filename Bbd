@@ -1,68 +1,23 @@
 پخش کردن کانفیگ ها ممکن است دسترسی شما رو به ربات مسدود کند
-این کانفیگ ها تا ساعت 20 فعال است:
-vless://cc887f31-9469-4f78-a19f-539da2726bc3@moz.sansorchi.net:443?sni=eh03daa54ea9.gheychi.monster&host=eh03daa54ea9.gheychi.monster&type=ws&security=tls&path=%2Ftel%2Fsansorchi_bezan_gheychi_bot&encryption=none#vless+tls+20
+این کانفیگ ها تا ساعت 02 فعال است:
+vless://4937b050-2f30-4dee-9c52-aab7a4a8792a@moz.sansorchi.net:443?sni=eh03daa54ea9.gheychi.monster&host=eh03daa54ea9.gheychi.monster&type=ws&security=tls&path=%2Ftel%2Fsansorchi_bezan_gheychi_bot&encryption=none#vless+tls+02
 
-vless://cc887f31-9469-4f78-a19f-539da2726bc3@ww.sansorchi.net:443?sni=eh03daa54ea9.gheychi.monster&host=eh03daa54ea9.gheychi.monster&type=ws&security=tls&path=%2Ftel%2Fsansorchi_bezan_gheychi_bot&encryption=none#vless+tls+20
+vless://4937b050-2f30-4dee-9c52-aab7a4a8792a@ww.sansorchi.net:443?sni=eh03daa54ea9.gheychi.monster&host=eh03daa54ea9.gheychi.monster&type=ws&security=tls&path=%2Ftel%2Fsansorchi_bezan_gheychi_bot&encryption=none#vless+tls+02
 
-vless://cc887f31-9469-4f78-a19f-539da2726bc3@cft3.sansorchi.net:443?sni=eh03daa54ea9.gheychi.monster&host=eh03daa54ea9.gheychi.monster&type=ws&security=tls&path=%2Ftel%2Fsansorchi_bezan_gheychi_bot&encryption=none#vless+tls+20
+vless://4937b050-2f30-4dee-9c52-aab7a4a8792a@cft3.sansorchi.net:443?sni=eh03daa54ea9.gheychi.monster&host=eh03daa54ea9.gheychi.monster&type=ws&security=tls&path=%2Ftel%2Fsansorchi_bezan_gheychi_bot&encryption=none#vless+tls+02
 
-vless://cc887f31-9469-4f78-a19f-539da2726bc3@cf3.sansorchi.net:443?sni=eh03daa54ea9.gheychi.monster&host=eh03daa54ea9.gheychi.monster&type=ws&security=tls&path=%2Ftel%2Fsansorchi_bezan_gheychi_bot&encryption=none#vless+tls+20
+vless://4937b050-2f30-4dee-9c52-aab7a4a8792a@cf3.sansorchi.net:443?sni=eh03daa54ea9.gheychi.monster&host=eh03daa54ea9.gheychi.monster&type=ws&security=tls&path=%2Ftel%2Fsansorchi_bezan_gheychi_bot&encryption=none#vless+tls+02
 
-vless://cc887f31-9469-4f78-a19f-539da2726bc3@cf.sansorchi.net:443?sni=eh03daa54ea9.gheychi.monster&host=eh03daa54ea9.gheychi.monster&type=ws&security=tls&path=%2Ftel%2Fsansorchi_bezan_gheychi_bot&encryption=none#vless+tls+20
+vless://4937b050-2f30-4dee-9c52-aab7a4a8792a@cf.sansorchi.net:443?sni=eh03daa54ea9.gheychi.monster&host=eh03daa54ea9.gheychi.monster&type=ws&security=tls&path=%2Ftel%2Fsansorchi_bezan_gheychi_bot&encryption=none#vless+tls+02
 
 پخش کردن کانفیگ ها ممکن است دسترسی شما رو به ربات مسدود کند
-این کانفیگ ها تا ساعت 20 فعال است:
-vmess://eyJhZGQiOiAibW96LnNhbnNvcmNoaS5uZXQiLCAiaWQiOiAiY2M4ODdmMzEtOTQ2OS00Zjc4LWExOWYtNTM5ZGEyNzI2YmMzIiwgImFpZCI6IDAsICJob3N0IjogImVoMDNkYWE1NGVhOS5naGV5Y2hpLm1vbnN0ZXIiLCAicHMiOiAidm1lc3Mgbm9UTFMgMjAiLCAicG9ydCI6ICIyMDk1IiwgInRscyI6ICIiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3RlbC9zYW5zb3JjaGlfYmV6YW5fZ2hleWNoaV9ib3QiLCAidHlwZSI6ICJub25lIiwgInYiOiAyfQ==
+این کانفیگ ها تا ساعت 02 فعال است:
+vmess://eyJhZGQiOiAibW96LnNhbnNvcmNoaS5uZXQiLCAiaWQiOiAiNDkzN2IwNTAtMmYzMC00ZGVlLTljNTItYWFiN2E0YTg3OTJhIiwgImFpZCI6IDAsICJob3N0IjogImVoMDNkYWE1NGVhOS5naGV5Y2hpLm1vbnN0ZXIiLCAicHMiOiAidm1lc3Mgbm9UTFMgMDIiLCAicG9ydCI6ICIyMDk1IiwgInRscyI6ICIiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3RlbC9zYW5zb3JjaGlfYmV6YW5fZ2hleWNoaV9ib3QiLCAidHlwZSI6ICJub25lIiwgInYiOiAyfQ==
 
-vmess://eyJhZGQiOiAid3cuc2Fuc29yY2hpLm5ldCIsICJpZCI6ICJjYzg4N2YzMS05NDY5LTRmNzgtYTE5Zi01MzlkYTI3MjZiYzMiLCAiYWlkIjogMCwgImhvc3QiOiAiZWgwM2RhYTU0ZWE5LmdoZXljaGkubW9uc3RlciIsICJwcyI6ICJ2bWVzcyBub1RMUyAyMCIsICJwb3J0IjogIjIwOTUiLCAidGxzIjogIiIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdGVsL3NhbnNvcmNoaV9iZXphbl9naGV5Y2hpX2JvdCIsICJ0eXBlIjogIm5vbmUiLCAidiI6IDJ9
+vmess://eyJhZGQiOiAid3cuc2Fuc29yY2hpLm5ldCIsICJpZCI6ICI0OTM3YjA1MC0yZjMwLTRkZWUtOWM1Mi1hYWI3YTRhODc5MmEiLCAiYWlkIjogMCwgImhvc3QiOiAiZWgwM2RhYTU0ZWE5LmdoZXljaGkubW9uc3RlciIsICJwcyI6ICJ2bWVzcyBub1RMUyAwMiIsICJwb3J0IjogIjIwOTUiLCAidGxzIjogIiIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdGVsL3NhbnNvcmNoaV9iZXphbl9naGV5Y2hpX2JvdCIsICJ0eXBlIjogIm5vbmUiLCAidiI6IDJ9
 
-vmess://eyJhZGQiOiAiY2Z0My5zYW5zb3JjaGkubmV0IiwgImlkIjogImNjODg3ZjMxLTk0NjktNGY3OC1hMTlmLTUzOWRhMjcyNmJjMyIsICJhaWQiOiAwLCAiaG9zdCI6ICJlaDAzZGFhNTRlYTkuZ2hleWNoaS5tb25zdGVyIiwgInBzIjogInZtZXNzIG5vVExTIDIwIiwgInBvcnQiOiAiMjA5NSIsICJ0bHMiOiAiIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi90ZWwvc2Fuc29yY2hpX2JlemFuX2doZXljaGlfYm90IiwgInR5cGUiOiAibm9uZSIsICJ2IjogMn0=
+vmess://eyJhZGQiOiAiY2Z0My5zYW5zb3JjaGkubmV0IiwgImlkIjogIjQ5MzdiMDUwLTJmMzAtNGRlZS05YzUyLWFhYjdhNGE4NzkyYSIsICJhaWQiOiAwLCAiaG9zdCI6ICJlaDAzZGFhNTRlYTkuZ2hleWNoaS5tb25zdGVyIiwgInBzIjogInZtZXNzIG5vVExTIDAyIiwgInBvcnQiOiAiMjA5NSIsICJ0bHMiOiAiIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi90ZWwvc2Fuc29yY2hpX2JlemFuX2doZXljaGlfYm90IiwgInR5cGUiOiAibm9uZSIsICJ2IjogMn0=
 
-vmess://eyJhZGQiOiAiY2YzLnNhbnNvcmNoaS5uZXQiLCAiaWQiOiAiY2M4ODdmMzEtOTQ2OS00Zjc4LWExOWYtNTM5ZGEyNzI2YmMzIiwgImFpZCI6IDAsICJob3N0IjogImVoMDNkYWE1NGVhOS5naGV5Y2hpLm1vbnN0ZXIiLCAicHMiOiAidm1lc3Mgbm9UTFMgMjAiLCAicG9ydCI6ICIyMDk1IiwgInRscyI6ICIiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3RlbC9zYW5zb3JjaGlfYmV6YW5fZ2hleWNoaV9ib3QiLCAidHlwZSI6ICJub25lIiwgInYiOiAyfQ==
+vmess://eyJhZGQiOiAiY2YzLnNhbnNvcmNoaS5uZXQiLCAiaWQiOiAiNDkzN2IwNTAtMmYzMC00ZGVlLTljNTItYWFiN2E0YTg3OTJhIiwgImFpZCI6IDAsICJob3N0IjogImVoMDNkYWE1NGVhOS5naGV5Y2hpLm1vbnN0ZXIiLCAicHMiOiAidm1lc3Mgbm9UTFMgMDIiLCAicG9ydCI6ICIyMDk1IiwgInRscyI6ICIiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3RlbC9zYW5zb3JjaGlfYmV6YW5fZ2hleWNoaV9ib3QiLCAidHlwZSI6ICJub25lIiwgInYiOiAyfQ==
 
-vmess://eyJhZGQiOiAiY2Yuc2Fuc29yY2hpLm5ldCIsICJpZCI6ICJjYzg4N2YzMS05NDY5LTRmNzgtYTE5Zi01MzlkYTI3MjZiYzMiLCAiYWlkIjogMCwgImhvc3QiOiAiZWgwM2RhYTU0ZWE5LmdoZXljaGkubW9uc3RlciIsICJwcyI6ICJ2bWVzcyBub1RMUyAyMCIsICJwb3J0IjogIjIwOTUiLCAidGxzIjogIiIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdGVsL3NhbnNvcmNoaV9iZXphbl9naGV5Y2hpX2JvdCIsICJ0eXBlIjogIm5vbmUiLCAidiI6IDJ9
-
-
-
-اینترنت آزاد:
-🔡🔠🔡🅱️🔡
-
-vmess://eyJhZGQiOiJ2MnJheS52MnJheW5nb3JnLmxpdmUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiN2JmY2NkOWUtZDc5OS00ODFlLTg4MDYtZDkxZWU0NDZiN2NjIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJAZnJlZWlybmV0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIxMTYuMjAzLjE0LjIxMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYm1pLmlyIiwiaWQiOiIxODQyYjY5Ni1mYjc5LTRkNzQtOTRiOC04ZmFmNTM3ZDdlY2IiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDg3IiwicHMiOiJAZnJlZWlybmV0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
-
-متصل با سرعت عالی 
-
-🪶@freeirnet🪶
-
-🔡🔠🔡🅱️🔡
-
-trojan://telegram-id-privatevpns@63.35.224.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%40freeirnet
-
-پر سرعت
-
-🪶@freeirnet🪶
-
-🔡🔠🔡🅱️🔡
-
-trojan://Go5e2nKM9U@45.85.119.0:2087?path=JoinUs%40v2rayNG_VPNN&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40freeirnet
-
-trojan://Go5e2nKM9U@45.85.119.29:2087?path=JoinUs%40v2rayNG_VPNN&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40freeirnet
-
-پر سرعت
-
-🪶@freeirnet🪶
-
-🔡🔠🔡🅱️🔡
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTcHhHSFkyQUFQUWdUdkw2dE5PVFdI@51.11.143.157:43716#%40freeirnet
-
-vmess://eyJhZGQiOiJ2MnJheS52MnJheW5nb3JnLmxpdmUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiN2JmY2NkOWUtZDc5OS00ODFlLTg4MDYtZDkxZWU0NDZiN2NjIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJAZnJlZWlybmV0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
-
-vmess://eyJhZGQiOiIxMTYuMjAzLjE2NS4xNjYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImJtaS5pciIsImlkIjoiNGIyMTlhMWMtNGFkNC00YmZkLTkxM2ItMTVhYzc5NTZkNDhiIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJAZnJlZWlybmV0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
-
-vmess://eyJhZGQiOiJkNS53ZXdpbGx3aW4ubWUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNvZGVwZW4uaW8iLCJpZCI6Ijg5OTkyZTY0LTAzOTktOWI5Mi0yNmFkLWUxMGFiMjdiNDQ1MyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTMwNjUiLCJwcyI6IkBmcmVlaXJuZXQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-
-trojan://d0d07c22-d97e-4877-9702-f164af5990fc@45.85.118.88:443?path=%2Ftrojanws%3Fed%3D2048&security=tls&host=cdir-0227.wlfvip.shop&type=ws&sni=cdir-0227.wlfvip.shop#%40freeirnet
-
-پرسرعت
-🪶@freeirnet🪶
+vmess://eyJhZGQiOiAiY2Yuc2Fuc29yY2hpLm5ldCIsICJpZCI6ICI0OTM3YjA1MC0yZjMwLTRkZWUtOWM1Mi1hYWI3YTRhODc5MmEiLCAiYWlkIjogMCwgImhvc3QiOiAiZWgwM2RhYTU0ZWE5LmdoZXljaGkubW9uc3RlciIsICJwcyI6ICJ2bWVzcyBub1RMUyAwMiIsICJwb3J0IjogIjIwOTUiLCAidGxzIjogIiIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdGVsL3NhbnNvcmNoaV9iZXphbl9naGV5Y2hpX2JvdCIsICJ0eXBlIjogIm5vbmUiLCAidiI6IDJ9
