@@ -1,107 +1,23 @@
 پخش کردن کانفیگ ها ممکن است دسترسی شما رو به ربات مسدود کند
-این کانفیگ ها تا ساعت 00 فعال است:
-vless://24a218b5-b92b-4bf2-9590-907b493ecfab@moz.sansorchi.net:443?sni=eh03daa54ea9.gheychi.buzz&host=eh03daa54ea9.gheychi.buzz&type=ws&security=tls&path=%2Ftel%2Fsansorchi_bezan_gheychi_bot&encryption=none#vless+tls+00
+این کانفیگ ها تا ساعت 04 فعال است:
+vless://c610ae9a-4896-43ab-ac5e-42c961dfc4cf@moz.sansorchi.net:443?sni=eh03daa54ea9.gheychi.buzz&host=eh03daa54ea9.gheychi.buzz&type=ws&security=tls&path=%2Ftel%2Fsansorchi_bezan_gheychi_bot&encryption=none#vless+tls+04
 
-vless://24a218b5-b92b-4bf2-9590-907b493ecfab@ww.sansorchi.net:443?sni=eh03daa54ea9.gheychi.buzz&host=eh03daa54ea9.gheychi.buzz&type=ws&security=tls&path=%2Ftel%2Fsansorchi_bezan_gheychi_bot&encryption=none#vless+tls+00
+vless://c610ae9a-4896-43ab-ac5e-42c961dfc4cf@ww.sansorchi.net:443?sni=eh03daa54ea9.gheychi.buzz&host=eh03daa54ea9.gheychi.buzz&type=ws&security=tls&path=%2Ftel%2Fsansorchi_bezan_gheychi_bot&encryption=none#vless+tls+04
 
-vless://24a218b5-b92b-4bf2-9590-907b493ecfab@cft3.sansorchi.net:443?sni=eh03daa54ea9.gheychi.buzz&host=eh03daa54ea9.gheychi.buzz&type=ws&security=tls&path=%2Ftel%2Fsansorchi_bezan_gheychi_bot&encryption=none#vless+tls+00
+vless://c610ae9a-4896-43ab-ac5e-42c961dfc4cf@cft3.sansorchi.net:443?sni=eh03daa54ea9.gheychi.buzz&host=eh03daa54ea9.gheychi.buzz&type=ws&security=tls&path=%2Ftel%2Fsansorchi_bezan_gheychi_bot&encryption=none#vless+tls+04
 
-vless://24a218b5-b92b-4bf2-9590-907b493ecfab@cf3.sansorchi.net:443?sni=eh03daa54ea9.gheychi.buzz&host=eh03daa54ea9.gheychi.buzz&type=ws&security=tls&path=%2Ftel%2Fsansorchi_bezan_gheychi_bot&encryption=none#vless+tls+00
+vless://c610ae9a-4896-43ab-ac5e-42c961dfc4cf@cf3.sansorchi.net:443?sni=eh03daa54ea9.gheychi.buzz&host=eh03daa54ea9.gheychi.buzz&type=ws&security=tls&path=%2Ftel%2Fsansorchi_bezan_gheychi_bot&encryption=none#vless+tls+04
 
-vless://24a218b5-b92b-4bf2-9590-907b493ecfab@cf.sansorchi.net:443?sni=eh03daa54ea9.gheychi.buzz&host=eh03daa54ea9.gheychi.buzz&type=ws&security=tls&path=%2Ftel%2Fsansorchi_bezan_gheychi_bot&encryption=none#vless+tls+00
+vless://c610ae9a-4896-43ab-ac5e-42c961dfc4cf@cf.sansorchi.net:443?sni=eh03daa54ea9.gheychi.buzz&host=eh03daa54ea9.gheychi.buzz&type=ws&security=tls&path=%2Ftel%2Fsansorchi_bezan_gheychi_bot&encryption=none#vless+tls+04
 
 پخش کردن کانفیگ ها ممکن است دسترسی شما رو به ربات مسدود کند
-این کانفیگ ها تا ساعت 00 فعال است:
-vmess://eyJhZGQiOiAibW96LnNhbnNvcmNoaS5uZXQiLCAiaWQiOiAiMjRhMjE4YjUtYjkyYi00YmYyLTk1OTAtOTA3YjQ5M2VjZmFiIiwgImFpZCI6IDAsICJob3N0IjogImVoMDNkYWE1NGVhOS5naGV5Y2hpLmJ1enoiLCAicHMiOiAidm1lc3Mgbm9UTFMgMDAiLCAicG9ydCI6ICIyMDk1IiwgInRscyI6ICIiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3RlbC9zYW5zb3JjaGlfYmV6YW5fZ2hleWNoaV9ib3QiLCAidHlwZSI6ICJub25lIiwgInYiOiAyfQ==
+این کانفیگ ها تا ساعت 04 فعال است:
+vmess://eyJhZGQiOiAibW96LnNhbnNvcmNoaS5uZXQiLCAiaWQiOiAiYzYxMGFlOWEtNDg5Ni00M2FiLWFjNWUtNDJjOTYxZGZjNGNmIiwgImFpZCI6IDAsICJob3N0IjogImVoMDNkYWE1NGVhOS5naGV5Y2hpLmJ1enoiLCAicHMiOiAidm1lc3Mgbm9UTFMgMDQiLCAicG9ydCI6ICIyMDk1IiwgInRscyI6ICIiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3RlbC9zYW5zb3JjaGlfYmV6YW5fZ2hleWNoaV9ib3QiLCAidHlwZSI6ICJub25lIiwgInYiOiAyfQ==
 
-vmess://eyJhZGQiOiAid3cuc2Fuc29yY2hpLm5ldCIsICJpZCI6ICIyNGEyMThiNS1iOTJiLTRiZjItOTU5MC05MDdiNDkzZWNmYWIiLCAiYWlkIjogMCwgImhvc3QiOiAiZWgwM2RhYTU0ZWE5LmdoZXljaGkuYnV6eiIsICJwcyI6ICJ2bWVzcyBub1RMUyAwMCIsICJwb3J0IjogIjIwOTUiLCAidGxzIjogIiIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdGVsL3NhbnNvcmNoaV9iZXphbl9naGV5Y2hpX2JvdCIsICJ0eXBlIjogIm5vbmUiLCAidiI6IDJ9
+vmess://eyJhZGQiOiAid3cuc2Fuc29yY2hpLm5ldCIsICJpZCI6ICJjNjEwYWU5YS00ODk2LTQzYWItYWM1ZS00MmM5NjFkZmM0Y2YiLCAiYWlkIjogMCwgImhvc3QiOiAiZWgwM2RhYTU0ZWE5LmdoZXljaGkuYnV6eiIsICJwcyI6ICJ2bWVzcyBub1RMUyAwNCIsICJwb3J0IjogIjIwOTUiLCAidGxzIjogIiIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdGVsL3NhbnNvcmNoaV9iZXphbl9naGV5Y2hpX2JvdCIsICJ0eXBlIjogIm5vbmUiLCAidiI6IDJ9
 
-vmess://eyJhZGQiOiAiY2Z0My5zYW5zb3JjaGkubmV0IiwgImlkIjogIjI0YTIxOGI1LWI5MmItNGJmMi05NTkwLTkwN2I0OTNlY2ZhYiIsICJhaWQiOiAwLCAiaG9zdCI6ICJlaDAzZGFhNTRlYTkuZ2hleWNoaS5idXp6IiwgInBzIjogInZtZXNzIG5vVExTIDAwIiwgInBvcnQiOiAiMjA5NSIsICJ0bHMiOiAiIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi90ZWwvc2Fuc29yY2hpX2JlemFuX2doZXljaGlfYm90IiwgInR5cGUiOiAibm9uZSIsICJ2IjogMn0=
+vmess://eyJhZGQiOiAiY2Z0My5zYW5zb3JjaGkubmV0IiwgImlkIjogImM2MTBhZTlhLTQ4OTYtNDNhYi1hYzVlLTQyYzk2MWRmYzRjZiIsICJhaWQiOiAwLCAiaG9zdCI6ICJlaDAzZGFhNTRlYTkuZ2hleWNoaS5idXp6IiwgInBzIjogInZtZXNzIG5vVExTIDA0IiwgInBvcnQiOiAiMjA5NSIsICJ0bHMiOiAiIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi90ZWwvc2Fuc29yY2hpX2JlemFuX2doZXljaGlfYm90IiwgInR5cGUiOiAibm9uZSIsICJ2IjogMn0=
 
-vmess://eyJhZGQiOiAiY2YzLnNhbnNvcmNoaS5uZXQiLCAiaWQiOiAiMjRhMjE4YjUtYjkyYi00YmYyLTk1OTAtOTA3YjQ5M2VjZmFiIiwgImFpZCI6IDAsICJob3N0IjogImVoMDNkYWE1NGVhOS5naGV5Y2hpLmJ1enoiLCAicHMiOiAidm1lc3Mgbm9UTFMgMDAiLCAicG9ydCI6ICIyMDk1IiwgInRscyI6ICIiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3RlbC9zYW5zb3JjaGlfYmV6YW5fZ2hleWNoaV9ib3QiLCAidHlwZSI6ICJub25lIiwgInYiOiAyfQ==
+vmess://eyJhZGQiOiAiY2YzLnNhbnNvcmNoaS5uZXQiLCAiaWQiOiAiYzYxMGFlOWEtNDg5Ni00M2FiLWFjNWUtNDJjOTYxZGZjNGNmIiwgImFpZCI6IDAsICJob3N0IjogImVoMDNkYWE1NGVhOS5naGV5Y2hpLmJ1enoiLCAicHMiOiAidm1lc3Mgbm9UTFMgMDQiLCAicG9ydCI6ICIyMDk1IiwgInRscyI6ICIiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3RlbC9zYW5zb3JjaGlfYmV6YW5fZ2hleWNoaV9ib3QiLCAidHlwZSI6ICJub25lIiwgInYiOiAyfQ==
 
-vmess://eyJhZGQiOiAiY2Yuc2Fuc29yY2hpLm5ldCIsICJpZCI6ICIyNGEyMThiNS1iOTJiLTRiZjItOTU5MC05MDdiNDkzZWNmYWIiLCAiYWlkIjogMCwgImhvc3QiOiAiZWgwM2RhYTU0ZWE5LmdoZXljaGkuYnV6eiIsICJwcyI6ICJ2bWVzcyBub1RMUyAwMCIsICJwb3J0IjogIjIwOTUiLCAidGxzIjogIiIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdGVsL3NhbnNvcmNoaV9iZXphbl9naGV5Y2hpX2JvdCIsICJ0eXBlIjogIm5vbmUiLCAidiI6IDJ9
-
-
-
-
-v2rayng [کانال اصلی]:
-🔘نماینده مجلس: مسمومیت‌ها کار دشمن هستش و بخاطر انتقام گرفتن از نوجوانان حاضر در راهپیمایی ۲۲ بهمنه، مردم نگران نباشن🤡
-
-کانفیگ ضد مسمومیت:
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.143:801#%40v2rayng_org
-
-🔘 @V2RAYNG_ORG ™️
-
-☢️جهت خرید سرور اختصاصی - بهترین کیفیت و کمترین قیمت به ربات زیر مراجعه کنید:
-
-🆔 @V2RAYORGBOT
-
-🔘خبرگزاری ایسنا: جمهوری‌اسلامی و آژانس به توافق نزدیک شدن
-
-کانفیگ توافقی:
-trojan://shefelnak@185.16.206.212:443?security=tls&headerType=none&type=tcp#%40v2rayng_org
-
-🔘 @V2RAYNG_ORG ™️
-
-☢️جهت خرید سرور اختصاصی - بهترین کیفیت و کمترین قیمت به ربات زیر مراجعه کنید:
-
-🆔 @V2RAYORGBOT
-
-🔘شاخص کل بورس ایران امروز ۳۳ هزار واحد سقوط کرد.
-
-کانفیگ بورس:
-vmess://eyJhZGQiOiI1MS44My4xMzQuMTgwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjM5N2I1OGIyLWRlNGEtNDQ2OS1iNTBhLWM2ZjFmYzVkNmYwYyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI0NDMiLCJwcyI6IkB2MnJheW5nX29yZyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-
-🔘 @V2RAYNG_ORG ™️
-
-☢️جهت خرید سرور اختصاصی - بهترین کیفیت و کمترین قیمت به ربات زیر مراجعه کنید:
-
-🆔 @V2RAYORGBOT
-
-🔘کانفیگ های بمب امشب:
-
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@139.99.120.234:8000#%40v2rayng_org
-
-vmess://eyJhZGQiOiJpY29vay5oayIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiMndvaWQud2VpZ29nb2dvLmNmIiwiaWQiOiIzZWIwNWNiNi1kMmUxLTRhMzEtOWY4Mi01MTRjZmE5OGZlMTUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5P2VkXHUwMDNkMjA0OCIsInBvcnQiOiI4MCIsInBzIjoiQHYycmF5bmdfb3JnIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.143:802#%40v2rayng_org
-
-🔘 @V2RAYNG_ORG ™️
-
-☢️جهت خرید سرور اختصاصی - بهترین کیفیت و کمترین قیمت به ربات زیر مراجعه کنید:
-
-🆔 @V2RAYORGBOT
-
-🔘در ۲۴ ساعت گذشته ۱۱ هموطن در اثر کرونا فوت کردند.
-
-کانفیگ تسلیت:
-vmess://eyJhZGQiOiJ0dGsuZnF2cHMuY2FzYSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidHRrLmZxdnBzLmNhc2EiLCJpZCI6ImVjYzY4YjJhLTRiOTAtNDJjYy04NzU1LTAzODAyZjc5N2UyMiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJAdjJyYXluZ19vcmciLCJzY3kiOiJhdXRvIiwic25pIjoidHRrLmZxdnBzLmNhc2EiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-
-🔘 @V2RAYNG_ORG ™️
-
-☢️جهت خرید سرور اختصاصی - بهترین کیفیت و کمترین قیمت به ربات زیر مراجعه کنید:
-
-🆔 @V2RAYORGBOT
-
-🔘کیهان شناس آمریکایی: زندگی پس از مرگ غیر ممکنه
-
-کانفیگ زندگی:
-vmess://eyJhZGQiOiI5MS4xMDcuMTI5LjI0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnb29nbGUuY29tIiwiaWQiOiIyZjMzNTRiMi0xMDcyLTQyMDItYmM0MC1iMDY2NmNlN2NhNDMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvQGhhc2htYWt2cG4g8J+HqfCfh6oiLCJwb3J0IjoiODA4MSIsInBzIjoiQHYycmF5bmdfb3JnIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-
-🔘 @V2RAYNG_ORG ™️
-
-☢️جهت خرید سرور اختصاصی - بهترین کیفیت و کمترین قیمت به ربات زیر مراجعه کنید:
-
-🆔 @V2RAYORGBOT
-
-🔘دولت باکو مؤذن فرستاده مرز ایران و باکو اذان گفت تا ایران رو با اسلام واقعی آشنا کنه!
-
-کانفیگ اسلامی:
-vmess://eyJhZGQiOiI5MS4xMDcuMTI5LjI0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjliOWE0NDE5LWNhOTctNGUzNi1kNmU2LTMyMDVhZTcxYWY0ZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9AaGFzaG1ha3ZwbiDwn4ep8J+HqiIsInBvcnQiOiI4MDgwIiwicHMiOiJAdjJyYXluZ19vcmciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-
-🔘 @V2RAYNG_ORG ™️
-
-☢️جهت خرید سرور اختصاصی - بهترین کیفیت و کمترین قیمت به ربات زیر مراجعه کنید:
-
-🆔 @V2RAYORGBOT
+vmess://eyJhZGQiOiAiY2Yuc2Fuc29yY2hpLm5ldCIsICJpZCI6ICJjNjEwYWU5YS00ODk2LTQzYWItYWM1ZS00MmM5NjFkZmM0Y2YiLCAiYWlkIjogMCwgImhvc3QiOiAiZWgwM2RhYTU0ZWE5LmdoZXljaGkuYnV6eiIsICJwcyI6ICJ2bWVzcyBub1RMUyAwNCIsICJwb3J0IjogIjIwOTUiLCAidGxzIjogIiIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdGVsL3NhbnNvcmNoaV9iZXphbl9naGV5Y2hpX2JvdCIsICJ0eXBlIjogIm5vbmUiLCAidiI6IDJ9
