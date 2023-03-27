@@ -29,3 +29,27 @@ vmess://eyJhZGQiOiJnZXIubWl6YmFuYml0LmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIs
 حجم(600گیگ)
 
 vmess://ewogICAgImFkZCI6ICJhcnZhbmNsb3VkLmlyLWFwaS0xLnNuYXBwZm9vZC5pa3diLmNvbSIsCiAgICAiYWlkIjogIjAiLAogICAgImhvc3QiOiAienVsYS5pciIsCiAgICAiaWQiOiAiZTA1N2M1MWYtMjBkYy00NWRhLTkxZTYtODU4MDI0Mjg3YTRlIiwKICAgICJuZXQiOiAidGNwIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiAiMTMxMzYiLAogICAgInBzIjogIkB2MnJheWNvbmZpZ3NCb3QiLAogICAgInNjeSI6ICJhdXRvIiwKICAgICJzbmkiOiAiIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImh0dHAiLAogICAgInYiOiAiMiIKfQ==
+
+
+Betforward VPN:
+کانفیگ اختصاصی شما هموطن گرامی با محدودیت 3GB:
+پروتکل VLESS:
+
+
+vless://05003b7a-8f03-41d5-b696-0119e8376a20@t6.teslacdn2.live:443?encryption=none&security=xtls&type=tcp&host=t6.teslacdn2.live&headerType=none&sni=t6.teslacdn2.live&flow=xtls-rprx-splice#t6.
+
+
+
+در صورت فیلتر شدن سرور، میتوانید مجددا با ارسال پیام، کانفیگ از سرور جدید دریافت نمایید.
+
+BetForward
+
+پروتکل تروجان:
+
+trojan://05003b7a-8f03-41d5-b696-0119e8376a20@t6.teslacdn2.live:443?peer=t6.teslacdn2.live&sni=t6.teslacdn2.live&alpn=http/1.1#t6.teslacdn2.live-trojan
+
+
+
+در صورت فیلتر شدن سرور، میتوانید مجددا با ارسال پیام، کانفیگ از سرور جدید دریافت نمایید.
+
+BetForward
