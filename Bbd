@@ -1,23 +1,61 @@
-پخش کردن کانفیگ ها ممکن است دسترسی شما رو به ربات مسدود کند
-این کانفیگ ها تا ساعت 20 فعال است:
-vless://b680d83a-d438-4ab0-bcd1-c5e2f3edb0d3@moz.sansorchi.net:443?sni=eh03daa54ea9.sansorchi.monster&host=eh03daa54ea9.sansorchi.monster&type=ws&security=tls&path=%2Ftel%2Fsansorchi_bezan_gheychi_bot&encryption=none#vless+tls+20
+Betforward VPN:
+کانفیگ اختصاصی شما هموطن گرامی با محدودیت 3GB:
+پروتکل VLESS:
 
-vless://b680d83a-d438-4ab0-bcd1-c5e2f3edb0d3@ww.sansorchi.net:443?sni=eh03daa54ea9.sansorchi.cfd&host=eh03daa54ea9.sansorchi.cfd&type=ws&security=tls&path=%2Ftel%2Fsansorchi_bezan_gheychi_bot&encryption=none#vless+tls+20
 
-vless://b680d83a-d438-4ab0-bcd1-c5e2f3edb0d3@cft3.sansorchi.net:443?sni=eh03daa54ea9.sansorchi.monster&host=eh03daa54ea9.sansorchi.monster&type=ws&security=tls&path=%2Ftel%2Fsansorchi_bezan_gheychi_bot&encryption=none#vless+tls+20
+vless://b0c0d87c-0a7f-4353-a222-b72115721547@cnamemk.ciscocdn2.live:443?security=tls&sni=c1mk.ciscocdn2.live&type=grpc&alpn=h2&path=Q0eO7PV5GGLIBrZoYhWbleSqkTG&host=c1mk.ciscocdn2.live&serviceName=Q0eO7PV5GGLIBrZoYhWbleSqkTG&mode=multi&encryption=none&fp=chrome&headerType=None#tls_h2_grpc_CDN_vless_Betforward1_home_isp
 
-vless://b680d83a-d438-4ab0-bcd1-c5e2f3edb0d3@cf3.sansorchi.net:443?sni=eh03daa54ea9.sansorchi.monster&host=eh03daa54ea9.sansorchi.monster&type=ws&security=tls&path=%2Ftel%2Fsansorchi_bezan_gheychi_bot&encryption=none#vless+tls+20
 
-vless://b680d83a-d438-4ab0-bcd1-c5e2f3edb0d3@cf.sansorchi.net:443?sni=eh03daa54ea9.sansorchi.beauty&host=eh03daa54ea9.sansorchi.beauty&type=ws&security=tls&path=%2Ftel%2Fsansorchi_bezan_gheychi_bot&encryption=none#vless+tls+20
 
-پخش کردن کانفیگ ها ممکن است دسترسی شما رو به ربات مسدود کند
-این کانفیگ ها تا ساعت 20 فعال است:
-vmess://eyJhZGQiOiAibW96LnNhbnNvcmNoaS5uZXQiLCAiaWQiOiAiYjY4MGQ4M2EtZDQzOC00YWIwLWJjZDEtYzVlMmYzZWRiMGQzIiwgImFpZCI6IDAsICJob3N0IjogImVoMDNkYWE1NGVhOS5zYW5zb3JjaGkubW9uc3RlciIsICJwcyI6ICJ2bWVzcyBub1RMUyAyMCIsICJwb3J0IjogIjIwOTUiLCAidGxzIjogIiIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdGVsL3NhbnNvcmNoaV9iZXphbl9naGV5Y2hpX2JvdCIsICJ0eXBlIjogIm5vbmUiLCAidiI6IDJ9
+در صورت فیلتر شدن سرور، میتوانید مجددا با ارسال پیام، کانفیگ از سرور جدید دریافت نمایید.
 
-vmess://eyJhZGQiOiAid3cuc2Fuc29yY2hpLm5ldCIsICJpZCI6ICJiNjgwZDgzYS1kNDM4LTRhYjAtYmNkMS1jNWUyZjNlZGIwZDMiLCAiYWlkIjogMCwgImhvc3QiOiAiZWgwM2RhYTU0ZWE5LnNhbnNvcmNoaS5jZmQiLCAicHMiOiAidm1lc3Mgbm9UTFMgMjAiLCAicG9ydCI6ICIyMDk1IiwgInRscyI6ICIiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3RlbC9zYW5zb3JjaGlfYmV6YW5fZ2hleWNoaV9ib3QiLCAidHlwZSI6ICJub25lIiwgInYiOiAyfQ==
+BetForward
 
-vmess://eyJhZGQiOiAiY2Z0My5zYW5zb3JjaGkubmV0IiwgImlkIjogImI2ODBkODNhLWQ0MzgtNGFiMC1iY2QxLWM1ZTJmM2VkYjBkMyIsICJhaWQiOiAwLCAiaG9zdCI6ICJlaDAzZGFhNTRlYTkuc2Fuc29yY2hpLmJlYXV0eSIsICJwcyI6ICJ2bWVzcyBub1RMUyAyMCIsICJwb3J0IjogIjIwOTUiLCAidGxzIjogIiIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdGVsL3NhbnNvcmNoaV9iZXphbl9naGV5Y2hpX2JvdCIsICJ0eXBlIjogIm5vbmUiLCAidiI6IDJ9
+پروتکل تروجان:
 
-vmess://eyJhZGQiOiAiY2YzLnNhbnNvcmNoaS5uZXQiLCAiaWQiOiAiYjY4MGQ4M2EtZDQzOC00YWIwLWJjZDEtYzVlMmYzZWRiMGQzIiwgImFpZCI6IDAsICJob3N0IjogImVoMDNkYWE1NGVhOS5zYW5zb3JjaGkubW9uc3RlciIsICJwcyI6ICJ2bWVzcyBub1RMUyAyMCIsICJwb3J0IjogIjIwOTUiLCAidGxzIjogIiIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdGVsL3NhbnNvcmNoaV9iZXphbl9naGV5Y2hpX2JvdCIsICJ0eXBlIjogIm5vbmUiLCAidiI6IDJ9
+trojan://63779501-4c22-4a03-83d3-9f611b227e7b@cnamemc.ciscocdn2.live:443?security=tls&sni=c4mc.ciscocdn2.live&type=ws&alpn=h2&path=/422Kdfwzf49IxeZJa&host=c4mc.ciscocdn2.live&fp=chrome&headerType=None#tls_h2_WS_CDN_trojan_Betforward4_hamrah_avval
 
-vmess://eyJhZGQiOiAiY2Yuc2Fuc29yY2hpLm5ldCIsICJpZCI6ICJiNjgwZDgzYS1kNDM4LTRhYjAtYmNkMS1jNWUyZjNlZGIwZDMiLCAiYWlkIjogMCwgImhvc3QiOiAiZWgwM2RhYTU0ZWE5LnNhbnNvcmNoaS5jZmQiLCAicHMiOiAidm1lc3Mgbm9UTFMgMjAiLCAicG9ydCI6ICIyMDk1IiwgInRscyI6ICIiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3RlbC9zYW5zb3JjaGlfYmV6YW5fZ2hleWNoaV9ib3QiLCAidHlwZSI6ICJub25lIiwgInYiOiAyfQ==
+
+
+در صورت فیلتر شدن سرور، میتوانید مجددا با ارسال پیام، کانفیگ از سرور جدید دریافت نمایید.
+
+BetForward
+
+سرور کانفیگ|ᴠ2ʀᴀʏ🌏:
+🇬🇧
+vmess://eyJhZGQiOiI0Ni4yMDkuMjAuMjA5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwYXJzYWhhY2tzLnRvcCIsImlkIjoiZDU5MWI4NzctOGFlMy00Zjk2LWQzMjctNDY3M2EyMzZlMWM4IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMzEyNzAiLCJwcyI6IvCfh6zwn4en8J+MjyBAY3VzdG9tdjJyYXkg2qnYp9mG2YHbjNqvINmH2KfbjCDYqNuM2LTYqtixINi52LbZiCDYtNmIIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+
+🇵🇪
+vmess://eyJhZGQiOiI2OC4xODMuNDcuMTkxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIvdGVzdHBpbmcyLmRpdmFyY2RuLmNvbSIsImlkIjoiMDVlYmE1MTctODkwZi00MWIyLTk5ZTEtYjg5ZGE4OTM4MTA0IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTAxODkiLCJwcyI6IvCfh7Xwn4eq8J+MjyBAY3VzdG9tdjJyYXkg2qnYp9mG2YHbjNqvINmH2KfbjCDYqNuM2LTYqtixINi52LbZiCDYtNmIIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+
+🇸🇬
+trojan://c0cf56d4-08a7-4436-9e6a-3feebe142706@aujs.stablize.top:443?security=tls&headerType=none&fp=safari&type=tcp&sni=aujs.stablize.top#%F0%9F%87%B8%F0%9F%87%AC%F0%9F%8C%8F+%40customv2ray+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%87%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%D8%B9%D8%B6%D9%88+%D8%B4%D9%88
+
+🇷🇺
+vmess://eyJhZGQiOiI0Ni4yMDkuMjAuMjA5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwYXJzYWhhY2tzLnRvcCIsImlkIjoiZDU5MWI4NzctOGFlMy00Zjk2LWQzMjctNDY3M2EyMzZlMWM4IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMzEyNzAiLCJwcyI6IvCfh7fwn4e68J+MjyBAY3VzdG9tdjJyYXkg2qnYp9mG2YHbjNqvINmH2KfbjCDYqNuM2LTYqtixINi52LbZiCDYtNmIIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+
+🇫🇮
+vmess://eyJhZGQiOiI2OC4xODMuMTUuMTgzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY1NzhhN2VkLTU3MjgtNGM3My05ODM2LTM3MjdkOTE1MGE5MiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDcwOTciLCJwcyI6IvCfh6vwn4eu8J+MjyBAY3VzdG9tdjJyYXkg2qnYp9mG2YHbjNqvINmH2KfbjCDYqNuM2LTYqtixINi52LbZiCDYtNmIIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+
+🇨🇦
+trojan://telegram-id-directvpn@18.203.237.5:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%F0%9F%87%A8%F0%9F%87%A6%F0%9F%8C%8F+%40customv2ray+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%87%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%D8%B9%D8%B6%D9%88+%D8%B4%D9%88
+
+🇩🇰
+vmess://eyJhZGQiOiIzNy4yNy44LjYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjZiN2NiYzQxLWZiODAtNDFhOC04ZWI2LWI1YmRiMGU4NjE0NyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HqfCfh7Dwn4yPIEBjdXN0b212MnJheSDaqdin2YbZgduM2q8g2YfYp9uMINio24zYtNiq2LEg2LnYttmIINi02YgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+
+🇩🇪
+vless://fe3e27c2-f708-4b7a-b7f3-76c5ffdcf95b@Fast_2ray_Telchannel.fastv2ray.eu.org:443?path=%2F&security=tls&encryption=none&host=irl.forsarinna.site&type=ws&sni=irl.forsarinna.site#%F0%9F%87%A9%F0%9F%87%AA%F0%9F%8C%8F+%40customv2ray+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%87%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%D8%B9%D8%B6%D9%88+%D8%B4%D9%88
+
+🇬🇧vmess://eyJhZGQiOiI2OC4xODMuNDcuMTkxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIvdGVzdHBpbmcyLmRpdmFyY2RuLmNvbSIsImlkIjoiMDVlYmE1MTctODkwZi00MWIyLTk5ZTEtYjg5ZGE4OTM4MTA0IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTAxODkiLCJwcyI6IvCfh6zwn4en8J+MjyBAY3VzdG9tdjJyYXkg2qnYp9mG2YHbjNqvINmH2KfbjCDYqNuM2LTYqtixINi52LbZiCDYtNmIIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+
+🇷🇺
+vmess://eyJhZGQiOiJpZDE3dGsuaWZlbmdzb3V0dTIzMy50ayIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJiMDY1YjY0YS05MDVhLTQ5NGEtYTI1Zi01ZTMxM2U5M2NjYTgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjE4ODg4IiwicHMiOiLwn4e38J+HuvCfjI8gQGN1c3RvbXYycmF5INqp2KfZhtmB24zaryDZh9in24wg2KjbjNi02KrYsSDYudi22Ygg2LTZiCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+
+🇺🇸
+vmess://eyJhZGQiOiJpZDE4dGsuaWZlbmdzb3V0dTIzMy50ayIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJiMDY1YjY0YS05MDVhLTQ5NGEtYTI1Zi01ZTMxM2U5M2NjYTgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjE4ODg4IiwicHMiOiLwn4e68J+HuPCfjI8gQGN1c3RvbXYycmF5INqp2KfZhtmB24zaryDZh9in24wg2KjbjNi02KrYsSDYudi22Ygg2LTZiCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+
+🇸🇬
+vmess://eyJhZGQiOiJqb2luLWJlZGUudm1lc3NvcmcuZnVuIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijg3YzhiZDEwLWVmNTYtNGMzYS1kMmE1LTA3ODhjZGNiNDRiOCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IvCfh7jwn4es8J+MjyBAY3VzdG9tdjJyYXkg2qnYp9mG2YHbjNqvINmH2KfbjCDYqNuM2LTYqtixINi52LbZiCDYtNmIIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+
+🇫🇮
+vmess://eyJhZGQiOiJzMi5zdGFycGluZzIuZnVuIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJrYW1rNC5pcmthbWsucHciLCJpZCI6IjI4Y2Y3ZDhhLTYxODctNDI1ZC05YjM5LTc0ODBjNjY0MmRjYyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQxNjM0IiwicHMiOiLwn4er8J+HrvCfjI8gQGN1c3RvbXYycmF5INqp2KfZhtmB24zaryDZh9in24wg2KjbjNi02KrYsSDYudi22Ygg2LTZiCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
